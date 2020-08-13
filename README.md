@@ -21,3 +21,5 @@ In command line, enter directory containing scripts and dictionary:
 Example: Python3 "scrabble.py" AB?CKAP
 
 Example 2: Python3 "scrabble2.py" achiBK
+
+NB: Is generally pretty fast, but 5 characters and 2 wildcards may take > 1 minute to run. 
