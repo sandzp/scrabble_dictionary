@@ -16,7 +16,7 @@ Utilizes the SOWPODS dictionary of words and has a scoring function to account f
 
 Needs both checking and scoring functions, SOWPODS dictionary all to be located in the same folder.
 
-In command line, enter directory containing scripts and dictionary:
+In command line, enter directory containing scripts and dictionary and after entering "Python3" input the characters you have directly after the "scrabble.py" call:
 
 Example: Python3 "scrabble.py" AB?CKAP
 
