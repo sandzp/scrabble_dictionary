@@ -8,7 +8,7 @@ Valid characters: A-Z, '*' or '?'.
 
 'scrabble.py' - raises exceptions when illegal characters written. Will exit the program and you will have to re-run. 
 
-'scrabble2.py' - uses loops to handle error checking, program stays running until valid input entered. Do not have to re-run program. 
+'scrabble2.py' - uses loops to handle error checking, program stays running until valid input entered. Do not have to re-run program after input of illegal characters. 
 
 Utilizes the SOWPODS dictionary of words and has a scoring function to account for valid characters and wildcards. 
 
